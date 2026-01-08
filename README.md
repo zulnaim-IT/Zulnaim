@@ -51,7 +51,7 @@ I’m a Software Engineer with a strong foundation in Information Systems and In
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zulnaim-IT&show_icons=true&theme=default" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulnaim-IT&layout=compact" height="160"/>
 </p>
 

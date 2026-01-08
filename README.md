@@ -45,7 +45,7 @@ I’m a Software Engineer with a strong foundation in Information Systems and In
 
 ## 🔗 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zulnaim/
-- 💻 GitHub: https://github.com/yourusername
+- 💻 GitHub: https://github.com/zulnaim-IT
 
 ---
 

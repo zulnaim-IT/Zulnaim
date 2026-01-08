@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zul Naim
+# 👋 Hi, I'm Muhammad ZulNaim
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZkM2J4ZWF3bXg1b2F3Y2Z5ZGNpY2RzZGk1d2l4b2V5ZTZqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
